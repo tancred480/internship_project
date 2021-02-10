@@ -3,10 +3,9 @@
 
 1)
 Fetching Data from an URL
-![Screenshot (187)](https://user-images.githubusercontent.com/43164424/107469022-039c4380-6b8f-11eb-82f1-7de2a20512f3.png)
+![Screenshot (190)](https://user-images.githubusercontent.com/43164424/107510956-d4a3c300-6bca-11eb-8823-0414b4b75a42.png)
 
 2)
-![Screenshot (188)](https://user-images.githubusercontent.com/43164424/107469038-0bf47e80-6b8f-11eb-833e-14914c8450fb.png)
+![Screenshot (189)](https://user-images.githubusercontent.com/43164424/107510981-dd949480-6bca-11eb-9ec1-e3bece2adbb6.png)
 
-3)
-![Screenshot (186)](https://user-images.githubusercontent.com/43164424/107469066-1747aa00-6b8f-11eb-9835-91a83a449913.png)
+
